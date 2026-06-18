@@ -1,0 +1,6 @@
+{
+  "name": "Karat Bank",
+  "description": "Premium Neobank with global financial services and secure wallet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
